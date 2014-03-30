@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ManVsMagic</title>
+  <id>http://www.manvsmagic.com</id>
+  <link href="http://www.manvsmagic.com"/>
+  <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
+  <updated>2014-03-26T12:47:00Z</updated>
+  <author>
+    <name>ManVsMagic</name>
+  </author>
+  <entry>
+    <title>Trying Times</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/26/trying-times.html"/>
+    <id>http://www.manvsmagic.com/2014/03/26/trying-times.html</id>
+    <published>2014-03-26T12:47:00Z</published>
+    <updated>2014-03-26T06:48:46-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/trying-times_manvsmagic.png" alt="Trying times" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Oh, The Places We'll Go</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/24/oh-the-places-we-will-go.html"/>
+    <id>http://www.manvsmagic.com/2014/03/24/oh-the-places-we-will-go.html</id>
+    <published>2014-03-24T06:32:00Z</published>
+    <updated>2014-03-24T06:45:38-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/oh-the-places-we'll-go_manvsmagic.png" alt="Oh, the places we'll go!" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Spoilers</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/19/spoilers.html"/>
+    <id>http://www.manvsmagic.com/2014/03/19/spoilers.html</id>
+    <published>2014-03-19T18:39:00Z</published>
+    <updated>2014-03-24T00:33:24-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/spoilers_manvsmagic.png" alt="Spoiler alert" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>The Future's So Bright I Need Sunglasses</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/17/future-so-bright-i-need-sunglasses.html"/>
+    <id>http://www.manvsmagic.com/2014/03/17/future-so-bright-i-need-sunglasses.html</id>
+    <published>2014-03-17T19:34:00Z</published>
+    <updated>2014-03-24T00:33:26-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/the-futures-so-bright-i-need-sunglasses_manvsmagic.png" alt="The light was blinding my eyes." /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Along Came A Spider</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/12/along-came-a-spider.html"/>
+    <id>http://www.manvsmagic.com/2014/03/12/along-came-a-spider.html</id>
+    <published>2014-03-12T19:23:00Z</published>
+    <updated>2014-03-24T00:33:27-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/along-came-a-spider_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>One Man's Thrash is Another Man's Pleasure</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html"/>
+    <id>http://www.manvsmagic.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html</id>
+    <published>2014-03-10T11:41:00Z</published>
+    <updated>2014-03-24T00:33:29-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/one-man's-thrash-is-another-man's-pleasure_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
