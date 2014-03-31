@@ -4,10 +4,22 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-03-26T12:47:00Z</updated>
+  <updated>2014-03-31T13:11:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Happy Birthday Son</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/31/happy-birthday-son.html"/>
+    <id>http://www.manvsmagic.com/2014/03/31/happy-birthday-son.html</id>
+    <published>2014-03-31T13:11:00Z</published>
+    <updated>2014-03-31T07:12:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/happy-birthday-son_manvsmagic.png" alt="Happy Birthday Son" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Trying Times</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/03/26/trying-times.html"/>
@@ -66,18 +78,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/along-came-a-spider_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>One Man's Thrash is Another Man's Pleasure</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html"/>
-    <id>http://www.manvsmagic.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html</id>
-    <published>2014-03-10T11:41:00Z</published>
-    <updated>2014-03-29T19:44:33-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/one-man's-thrash-is-another-man's-pleasure_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
